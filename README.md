@@ -6,10 +6,15 @@ We analysed a data set containing 1460 properties in Ames, in order to answer th
 
 # Install 
 NumPy
+
 Pandas
+
 Seaborn
+
 statsmodels.api
+
 scikit.learn
+
 scipy
 
 # Data
